@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Reactjs<br>🌱 I’m currently learning redux<br>👯 I’m looking to collaborate on mern stack projects<br>💬 Ask me about reactjs,nodejs and javaScript<br>👨‍💻 All of my projects are available at https://github.com/aswanth-aswanth<br>📝 I regularly write articles on dev.to<br>📫 How to reach me aswanthndl@gmail.com
+🔭 I’m currently working on Reactjs<br>🌱 I’m currently learning next.js & microservice<br>👯 I’m looking to collaborate on mern stack projects<br>💬 Ask me about reactjs,nodejs and javaScript<br>👨‍💻 All of my projects are available at https://github.com/aswanth-aswanth<br>📝 I regularly write articles on dev.to<br>📫 How to reach me aswanthndl@gmail.com
 
 
 ## 🌐 Socials:
